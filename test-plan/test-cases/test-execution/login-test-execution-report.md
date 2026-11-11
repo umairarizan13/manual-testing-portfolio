@@ -10,10 +10,10 @@
 | Test ID | Test Description | Status |
 |---|---|---|
 | TC001 | Valid username and password | PASS |
-| TC002 | Incorrect password | Update result |
-| TC003 | Incorrect username | Update result |
-| TC004 | Empty username and password | Update result |
-| TC005 | Valid username and empty password | Update result |
+| TC002 | Incorrect password | Fail |
+| TC003 | Incorrect username | Fail |
+| TC004 | Empty username and password | Fail |
+| TC005 | Valid username and empty password | Fail |
 
 ## Test Summary
 
