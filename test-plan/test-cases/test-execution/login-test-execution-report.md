@@ -19,8 +19,7 @@
 
 - Total Test Cases: 5
 - Passed: 1 confirmed
-- Failed: Not yet confirmed
-- Remaining Results: Update after checking observations
+- Failed: 4 Confirmed
 
 ## Notes
 
