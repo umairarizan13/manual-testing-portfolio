@@ -29,15 +29,18 @@ Verify that a user can return to the products page from the shopping cart.
 ### TS007 – Proceed to checkout
 Verify that a user can proceed to the checkout process from the shopping cart.
 
-## 2. Negative Test Scenarios
+### TS008 – Verify product price displayed in the cart.
+Verify product price displayed in the shopping cart.
 
-### TS008 – Empty shopping cart
+## 2. Empty-State and Boundary Test Scenarios
+
+### TS009 – Empty shopping cart
 Verify that the shopping cart displays an appropriate empty-cart state when no products have been added.
 
 ## 3. Test Scenario Summary
 
-- Total Test Scenarios: 8
-- Positive Test Scenarios: 7
-- Negative Test Scenarios: 1
+- Total Test Scenarios: 9
+- Positive Test Scenarios: 8
+- Empty-state and boundary scenarios: 1
 
 **Note:** These are identified test scenarios. Detailed test cases and execution results will be documented separately.
